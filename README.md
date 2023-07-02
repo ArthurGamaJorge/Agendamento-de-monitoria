@@ -2,7 +2,10 @@
  Programa desenvolvido em python utilizando Qt Designer como interface gráfica
 
 <h1>Dependências</h1>
-pip install PySide6 
+
+```python
+pip install PySide6
+```
  
 <h1> Menu principal </h1>
 <img src="https://github.com/ArthurGamaJorge/Agendamento-de-monitoria/assets/129080603/9c28cdb9-0599-4b4c-84cb-0f77000ce7be" style="height: 200px; width: auto"> <br>
