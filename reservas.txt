@@ -1,0 +1,11 @@
+Dinalva11 82362 7
+Dinalva11 82362 15
+Dinalva12 23142 3
+Dinalva12 23578 18
+Dinalva13 23142 12
+Dinalva13 23142 6
+Dinalva13 23578 17
+Dinalva13 23142 4
+Lapa12    23142 7
+Lapa12    23015 9
+Lapa12    82362 3

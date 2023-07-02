@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>FrmReservas</class>
+ <widget class="QMainWindow" name="FrmReservas">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>860</width>
+    <height>681</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Reservas de horários de computadores</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QTableWidget" name="grdReserva">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>50</y>
+      <width>841</width>
+      <height>581</height>
+     </rect>
+    </property>
+    <property name="focusPolicy">
+     <enum>Qt::WheelFocus</enum>
+    </property>
+    <property name="acceptDrops">
+     <bool>true</bool>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::StyledPanel</enum>
+    </property>
+    <property name="sizeAdjustPolicy">
+     <enum>QAbstractScrollArea::AdjustToContentsOnFirstShow</enum>
+    </property>
+    <property name="rowCount">
+     <number>18</number>
+    </property>
+    <property name="columnCount">
+     <number>0</number>
+    </property>
+    <attribute name="horizontalHeaderVisible">
+     <bool>true</bool>
+    </attribute>
+    <attribute name="verticalHeaderVisible">
+     <bool>true</bool>
+    </attribute>
+    <row>
+     <property name="text">
+      <string>07:30</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>08:15</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>09:00</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>10:00</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>10:45</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>11:30</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>13:30</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>14:15</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>15:00</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>16:00</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>16:45</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>17:30</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>18:15</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>19:00</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>19:45</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>20:30</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>21:30</string>
+     </property>
+    </row>
+    <row>
+     <property name="text">
+      <string>22:15</string>
+     </property>
+    </row>
+   </widget>
+   <widget class="QPushButton" name="btnAbrir">
+    <property name="geometry">
+     <rect>
+      <x>175</x>
+      <y>10</y>
+      <width>75</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Abrir</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btnSalvar">
+    <property name="geometry">
+     <rect>
+      <x>525</x>
+      <y>10</y>
+      <width>75</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Salvar</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>860</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

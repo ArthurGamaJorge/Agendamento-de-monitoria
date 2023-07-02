@@ -1,0 +1,7 @@
+Dinalva11 Computador hp windows                             True
+Dinalva12 Computador da Hp com modelo operacional windows   True
+Dinalva13 Computador da Hp com modelo operacional windows!  True
+Dinalva20 Computador HP com i5                              True
+Dinalva77 Computador hp                                     False
+Lapa12    Computador da Apple com modelo operacional Mac    True
+Lapa13    Computador da Apple com modelo operacional Mac    True

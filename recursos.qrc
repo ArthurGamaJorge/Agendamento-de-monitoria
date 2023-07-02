@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="icones">
+    <file>botoes/abort.bmp</file>
+    <file>botoes/about.bmp</file>
+    <file>botoes/Add.bmp</file>
+    <file>botoes/CLOSE1.BMP</file>
+    <file>botoes/COPY.BMP</file>
+    <file>botoes/FIND.BMP</file>
+    <file>botoes/first.bmp</file>
+    <file>botoes/last.bmp</file>
+    <file>botoes/Minus.bmp</file>
+    <file>botoes/next.bmp</file>
+    <file>botoes/Oeil2.bmp</file>
+    <file>botoes/PRINTER5.BMP</file>
+    <file>botoes/prior.bmp</file>
+    <file>botoes/REDO.BMP</file>
+    <file>botoes/Save.bmp</file>
+    <file>botoes/UNDO.BMP</file>
+    <file>botoes/WINNEXT.BMP</file>
+    <file>botoes/WINPREV.BMP</file>
+  </qresource>
+</RCC>
